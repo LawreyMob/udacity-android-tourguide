@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/colorDarkGray"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.lawrey.tourguide.ItemDetailsActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/itemDetailsTitle_text_view"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/colorGold"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:gravity="top"
+        android:textAlignment="center"
+        android:text="Universal Studios Singapore®"
+        />
+
+    <ImageView
+        android:id="@+id/itemDetails_image_view"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/attraction1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        style="@style/SubtitleStyle"
+        android:id="@+id/itemDetailsDescription_text_view"
+        android:textAlignment="center"
+
+        />
+
+    <Button
+        style="@style/ActionButtonStyle"
+        android:id="@+id/btn_action"
+        android:onClick="onClickGetDirections"
+        android:text="@string/default_buttonText"/>
+
+</LinearLayout>

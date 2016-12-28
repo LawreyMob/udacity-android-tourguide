@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorDarkGray"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/itemDetailsTitle_text_view"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/colorGold"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:gravity="top"
+        android:textAlignment="center"
+        android:text="Universal Studios Singapore®"
+        />
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/attraction1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/itemDetailsDescription_text_view"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:gravity="top"
+        android:textAlignment="center"
+        android:text="Go beyond the screen and Ride The Movies® at Universal Studios Singapore®. Experience cutting-edge rides, shows, and attractions based on your favourite blockbuster films and television series, including Puss In Boots’ Giant Journey, Battlestar Galactica: HUMAN vs. CYLON™, TRANSFORMERS The Ride: The Ultimate 3D Battle, Jurassic Park Rapids Adventure™, Sesame Street Spaghetti Space Chase and more!"
+        />
+
+    <Button
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/colorRed"
+        android:textColor="@color/colorWhite"
+        android:text="Get Directions"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

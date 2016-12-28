@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Tour guide</string>
+
+    <!-- Default Texts -->
+    <string name="default_title">Universal Studios Singapore®</string>
+    <string name="default_subtitle">Enter the thrilling world of movie magic as you Ride the Movies on roller coasters and other movie-themed attractions.</string>
+    <string name="default_buttonText">Get Directions</string>
+
+    <!-- Attractions Title Texts -->
+    <string name="attraction1Title">Universal Studios Singapore®</string>
+    <string name="attraction2Title">S.E.A. Aquarium™</string>
+    <string name="attraction3Title">Adventure Cove Waterpark™</string>
+    <string name="attraction4Title">Dolphin Island</string>
+    <string name="attraction5Title">The Maritime Experiential Museum</string>
+    <string name="attraction6Title">Trick Eye Museum</string>
+    <string name="attraction7Title">K-live Sentosa</string>
+
+    <!-- Attractions Descriptions Texts -->
+    <string name="attraction1Description">Enter the thrilling world of movie magic as you Ride the Movies on roller coasters and other movie-themed attractions.</string>
+    <string name="attraction2Description">Explore the awe-inspiring universe of life in the ocean at S.E.A. Aquarium™, one of the world\'s largest aquarium.</string>
+    <string name="attraction3Description">Plunge into wet and wild fun at Adventure Cove Waterpark™, a tropical paradise with an escapade for everyone.</string>
+    <string name="attraction4Description">Dolphin Island offers a range of programmes that gives you the opportunity to interact with Indo-Pacific Bottlenose dolphins and to learn about them.</string>
+    <string name="attraction5Description">Experience Asia\'s rich maritime history, an interactive, multi-sensorial museum for the whole family.</string>
+    <string name="attraction6Description">Trick Eye Museum is finally here in Singapore. Get ready to let your imagination march into a miraculous dimension of original 3D artworks.</string>
+    <string name="attraction7Description">You can now meet K-Pop stars anytime you want! Experience the magic of K-Pop through this high-tech hologram comprising both real and virtual performances.</string>
+
+    <!-- Hotels Title Texts -->
+    <string name="hotel1Title">Beach Villas™</string>
+    <string name="hotel2Title">Crockfords Tower</string>
+    <string name="hotel3Title">Equarius Hotel™</string>
+    <string name="hotel4Title">Festive Hotel™</string>
+    <string name="hotel5Title">Genting Hotel Jurong</string>
+    <string name="hotel6Title">Hard Rock Hotel Singapore</string>
+    <string name="hotel7Title">Hotel Michael™</string>
+    <string name="hotel8Title">Ocean Suite</string>
+    <string name="hotel9Title">Treetop Loft™</string>
+
+    <!-- Hotels Descriptions Texts -->
+    <string name="hotel1Description">Whether it\'s for a special holiday, a well-earned break or your honeymoon, Beach Villas™ is the ultimate idyllic destination.</string>
+    <string name="hotel2Description">The epitome of luxury, this all-suite only hotel combines discreet exclusivity and premium personalised service.</string>
+    <string name="hotel3Description">Located at the fringe of a tropical rainforest, we offer Equarius Hotel™ as the ideal getaway for nature lovers.</string>
+    <string name="hotel4Description">Vibrant and fun, Festive Hotel™ provides a lively island ambience that is perfect for family vacations.</string>
+    <string name="hotel5Description">The first hotel in Jurong Lake District brings you chic rooms and island-wide accessibility at sensible rates.</string>
+    <string name="hotel6Description">With its modern interiors, Hard Rock Hotel Singapore\'s contemporary vibe will inject a rock-and-roll edge to your holiday experience.</string>
+    <string name="hotel7Description">Stepping into a room at Hotel Michael™is like entering an art gallery with its mural-adorned walls and artistic furniture pieces.</string>
+    <string name="hotel8Description">Discreetly tucked away on one side of the world\’s largest aquarium, guests will be treated to five-star comfort and personalized butler service.</string>
+    <string name="hotel9Description">Tucked away in a canopy of native trees and perched 12 metres above ground, the Treetop Loft™ is the epitome of exclusivity and privacy.</string>
+
+    <!-- Restaurants Title Texts -->
+    <string name="restaurant1Title">Celebrity Chefs</string>
+    <string name="restaurant2Title">Asian Cuisine</string>
+    <string name="restaurant3Title">Western Cuisine</string>
+    <string name="restaurant4Title">Halal Cusine</string>
+    <string name="restaurant5Title">Bars &amp; Lounges</string>
+    <string name="restaurant6Title">Other Choices</string>
+
+    <!-- Restaurants Descriptions Texts -->
+    <string name="restaurant1Description">Lavish your taste buds at some of the best restaurants in Singapore, helmed by famous celebrity chefs in the culinary world.</string>
+    <string name="restaurant2Description">Satiate your craving for authentic local flavours, Malaysia\'s famous hawker fare, spicy Korean delights, or anything in between.</string>
+    <string name="restaurant3Description">Take your pick from some of the best-loved Italian classics and American contemporary favourites.</string>
+    <string name="restaurant4Description">Enjoy a fabulous feast at our certified Halal restaurants where food is prepared according to Islamic dietary laws.</string>
+    <string name="restaurant5Description">Socialize and chill out with a specially concocted cocktail.</string>
+    <string name="restaurant6Description">From light bites to hearty international buffet, you’ll find every reason to indulge at Resorts World Sentosa.</string>
+
+    <!-- Promotions Title Texts -->
+    <string name="promotion1Title">Brighter Stars and Smiles This Season</string>
+    <string name="promotion2Title">Mastercard® Exclusive - 15% off Adventure Cove Waterpark Adult Pass</string>
+    <string name="promotion3Title">Mastercard® Exclusive - 15% off S.E.A. Aquarium Adult Pass</string>
+    <string name="promotion4Title">Mastercard® Exclusive - 10% off Universal Studios Singapore Adult Pass</string>
+    <string name="promotion5Title">Mastercard® Exclusive - 10% off Universal Studios Singapore Adult Pass</string>
+    <string name="promotion6Title">Mulan The Musical\n16 December 2016 – 5 February 2017</string>
+
+    <!-- Promotions Descriptions Texts -->
+    <string name="promotion1Description">Christmas is in the air, and every corner of our Resort is imbued with festive cheer, from our attractions to our restaurants. Come with loved ones and join in the fun, the feasts and the festivities!</string>
+    <string name="promotion2Description">Adventure Cove Waterpark Adult One-Day Pass + 1 Free Can of Coke (min. spend S$15) at S$31\n\tRedemption locations: Blue Ice, Hot Dog or Riverside Snacks</string>
+    <string name="promotion3Description">S.E.A. Aquarium Adult One-Day Pass + 1 Free Can of Coke (min. spend S$10) at S$29\n\tRedemption locations: S.E.A.side Snacks or Ocean Bites</string>
+    <string name="promotion4Description">Enjoy 10% off Universal Studios Singapore Adult One-Day Pass at S$67 (Usual Price: S$74) when you pay by Mastercard.</string>
+    <string name="promotion5Description">Buy in pairs and receive a FREE Souvenir Bottle\n(worth S$25, excluding drink) when you pay by Mastercard.</string>
+    <string name="promotion6Description">If you thought Hua Mulan took her father’s place in the army out of filial piety, you’re in for a surprise. Based on the popular legend of Hua Mulan, this musical comedy from Taiwan promises hilarious twists and turns.</string>
+
+</resources>
